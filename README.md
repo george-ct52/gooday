@@ -8,7 +8,7 @@
 
 
 ### Team Members
-- Team Lead: George - College of Engineering Chengannur
+- Team Lead: George C Thomas - College of Engineering Chengannur
 
 ### Project Description
 Gooday is a simple, automated messaging bot that sends personalized "Good Morning" and "Good Night" messages with motivational quotes via WhatsApp using Twilio's API.
@@ -17,7 +17,7 @@ Gooday is a simple, automated messaging bot that sends personalized "Good Mornin
 Many people go through their day without a positive interaction or acknowledgment. Sometimes, a simple "Good Morning" or "Good Night" message can make someone feel cared for and connected.(Wanted someone to text me Good morning and Good Night 🥲)
 
 ### The Solution (that nobody asked for)"
-My solution "Gooday" sc
+My solution "Gooday" sends scheduled, thoughtful "Good Morning" and "Good Night" messages along with motivational quotes in whatsapp
 
 ## Technical Details
 ### Technologies/Components Used
